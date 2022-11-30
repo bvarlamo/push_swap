@@ -1,4 +1,7 @@
-# push_swap
+# push_swap 
+I used provided operations to sort numbers in a groups of 5, then used Merge sort algorith techniques to merge those groups in one.
+
+-----------
 
 In this project I had to sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 
