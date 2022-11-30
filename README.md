@@ -45,6 +45,7 @@ The goal is to sort in ascending order numbers into stack a. To do so you have t
 <img width="624" alt="Screen Shot 2022-11-30 at 11 51 17 AM" src="https://user-images.githubusercontent.com/84401898/204777276-0a80ece0-edda-4c40-9c85-5009ec91af3e.png">
 
 How to use:
+
 <img width="607" alt="Screen Shot 2022-11-30 at 11 53 07 AM" src="https://user-images.githubusercontent.com/84401898/204777628-e5cd43ab-5872-41df-98ba-7f95d53fbb5d.png">
 
 
